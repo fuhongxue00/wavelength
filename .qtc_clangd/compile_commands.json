@@ -36,7 +36,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -52,7 +52,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -72,10 +72,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\callout.cpp"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\callout.cpp"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/callout.cpp"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/callout.cpp"
 },
 {
     "arguments": [
@@ -114,7 +114,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -130,7 +130,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -150,10 +150,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\main.cpp"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\main.cpp"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/main.cpp"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/main.cpp"
 },
 {
     "arguments": [
@@ -192,7 +192,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -208,7 +208,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -228,10 +228,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\mainwindow.cpp"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\mainwindow.cpp"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/mainwindow.cpp"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/mainwindow.cpp"
 },
 {
     "arguments": [
@@ -270,7 +270,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -286,7 +286,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -306,10 +306,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\view.cpp"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\view.cpp"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/view.cpp"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/view.cpp"
 },
 {
     "arguments": [
@@ -348,7 +348,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -364,7 +364,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -384,10 +384,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\callout.h"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\callout.h"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/callout.h"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/callout.h"
 },
 {
     "arguments": [
@@ -426,7 +426,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -442,7 +442,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -462,10 +462,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\mainwindow.h"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\mainwindow.h"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/mainwindow.h"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/mainwindow.h"
 },
 {
     "arguments": [
@@ -504,7 +504,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -520,7 +520,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -540,10 +540,10 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\view.h"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\view.h"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/view.h"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/view.h"
 },
 {
     "arguments": [
@@ -582,7 +582,7 @@
         "-I",
         "D:\\QT\\qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash",
+        "D:\\mygithub\\v6-qscrollwidget without crash",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include",
         "-I",
@@ -598,7 +598,7 @@
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\include\\QtCore",
         "-I",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\debug",
+        "D:\\mygithub\\v6-qscrollwidget without crash\\debug",
         "-I",
         "D:\\QT\\qt\\5.15.2\\mingw81_64\\mkspecs\\win32-g++",
         "-isystem",
@@ -618,9 +618,9 @@
         "-ferror-limit=1000",
         "-x",
         "c++-header",
-        "D:\\QT\\qtproject\\v6-qscrollwidget without crash\\ui_mainwindow.h"
+        "D:\\mygithub\\v6-qscrollwidget without crash\\ui_mainwindow.h"
     ],
-    "directory": "D:/QT/qtproject/v6-qscrollwidget without crash/.qtc_clangd",
-    "file": "D:/QT/qtproject/v6-qscrollwidget without crash/ui_mainwindow.h"
+    "directory": "D:/mygithub/v6-qscrollwidget without crash/.qtc_clangd",
+    "file": "D:/mygithub/v6-qscrollwidget without crash/ui_mainwindow.h"
 }
 ]

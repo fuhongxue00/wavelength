@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
@@ -33,6 +34,8 @@ public:
     QPushButton *readDataButton_2;
     QChartView *waveGraphicsView;
     QPushButton *pushButton;
+    QLabel *label;
+    QLabel *label_2;
     QWidget *tab;
     QScrollArea *myarea;
     QWidget *area;
@@ -69,6 +72,12 @@ public:
         pushButton = new QPushButton(tab_2);
         pushButton->setObjectName(QString::fromUtf8("pushButton"));
         pushButton->setGeometry(QRect(1550, 750, 111, 41));
+        label = new QLabel(tab_2);
+        label->setObjectName(QString::fromUtf8("label"));
+        label->setGeometry(QRect(60, 360, 190, 20));
+        label_2 = new QLabel(tab_2);
+        label_2->setObjectName(QString::fromUtf8("label_2"));
+        label_2->setGeometry(QRect(60, 760, 190, 20));
         tabWidget->addTab(tab_2, QString());
         tab = new QWidget();
         tab->setObjectName(QString::fromUtf8("tab"));
@@ -98,7 +107,7 @@ public:
 
         retranslateUi(MainWindow);
 
-        tabWidget->setCurrentIndex(1);
+        tabWidget->setCurrentIndex(0);
 
 
         QMetaObject::connectSlotsByName(MainWindow);
@@ -110,6 +119,8 @@ public:
         readDataButton->setText(QCoreApplication::translate("MainWindow", "\345\212\240\350\275\275\346\226\207\344\273\266", nullptr));
         readDataButton_2->setText(QCoreApplication::translate("MainWindow", "\345\212\240\350\275\275\346\226\207\344\273\266", nullptr));
         pushButton->setText(QCoreApplication::translate("MainWindow", "\345\217\215\345\260\204\347\216\207\350\256\241\347\256\227", nullptr));
+        label->setText(QCoreApplication::translate("MainWindow", "\347\211\271\345\276\201\350\267\235\347\246\273\357\274\232\346\227\240\346\225\260\346\215\256", nullptr));
+        label_2->setText(QCoreApplication::translate("MainWindow", "\347\211\271\345\276\201\350\267\235\347\246\273\357\274\232\346\227\240\346\225\260\346\215\256", nullptr));
         tabWidget->setTabText(tabWidget->indexOf(tab_2), QCoreApplication::translate("MainWindow", "\346\240\207\345\256\232/\346\265\213\351\207\217\346\225\260\346\215\256", nullptr));
         btn_print->setText(QCoreApplication::translate("MainWindow", "\346\211\223\345\215\260\347\252\227\345\217\243", nullptr));
         printdata->setText(QCoreApplication::translate("MainWindow", "\346\211\223\345\215\260\346\225\260\346\215\256", nullptr));

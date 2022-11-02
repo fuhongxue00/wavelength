@@ -133,6 +133,8 @@ void MainWindow::on_readDataButton_clicked()
                 if(mCSVList.at(j).right(4).toInt(&ok,16)>most) most=mCSVList.at(j).right(4).toInt(&ok,16);
                 mWavePointBuffer.append(QPointF(j*0.1, mCSVList.at(j).left(4).toInt(&ok,16)));//转换为16进制
             }
+            ui->label->setText("特征距离："+QString::number(most));
+
         }
         mSeries->replace(mWavePointBuffer);//将mcvlist里面的数据取出来变为double
 
@@ -209,12 +211,17 @@ void MainWindow::on_readDataButton_2_clicked()
         }
         mWavePointBuffer_2.clear(); //清空画图数据
 
+            int most=0;
             for(int j = 0; j < mCSVList_2.length(); j++)
             {
                 bool ok;
+                if(mCSVList_2.at(j).right(4).toInt(&ok,16)>most) most=mCSVList_2.at(j).right(4).toInt(&ok,16);
                 mWavePointBuffer_2.append(QPointF(j*0.1, mCSVList_2.at(j).left(4).toInt(&ok,16)));
-
             }
+
+            ui->label_2->setText("特征距离："+QString::number(most));
+
+
         }
         mSeries_2->replace(mWavePointBuffer_2);
 
